@@ -1,0 +1,55 @@
+Data Bricks Pyspark Project:
+--------------------------------
+
+Retails Sales Project
+
+Business Requirements:
+----------------------------------------------------------
+We have Superstore sample retail data and stakeholder want to track the below Business Metrics.
+
+1. How many total number of customers we have?
+2. Total number of orders we have.
+3. Total number of sales as of now
+4. Total profit
+5. Top sales by country
+6. Most Profitable region and country
+7. Top sales category products
+8. Top 10 sales sub category products
+9. Most ordered quantity products
+10. Top customer based on sales, city
+
+Note: dashboard/Notebook should be refresh based on weekly and monthly basis.
+
+
+Procedure to setup Databricks Notebooks
+
+1. URL: https://www.databricks.com/try-databricks#account
+	- create account.
+
+After setup.
+
+2. Create cluster:
+-----------------------------
+go to compute tab and create cluster by giving name of the cluster
+
+3. creating notebook
+-------------------------
+
+got o new and click on Notebook.
+select the cluster to connect.
+
+4. Rename:
+------------------
+Rename the file as Pyspark_Sales_Project
+
+5. Load the Excel "superstore.csv"
+---------------------------------------
+
+Go to tab Catelog
+click on create table
+select the directory and click on "superstore.csv" and load that file.
+
+Copy the path after loading.
+
+Pyspark coding for cleaning and transforming and visualizing the data as per company needs.
+
