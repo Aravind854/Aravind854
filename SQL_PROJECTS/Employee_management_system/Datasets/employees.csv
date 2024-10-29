@@ -1,0 +1,8 @@
+employee_id,first_name,last_name,department_id,job_title_id,hire_date
+1001,John,Doe,1,2,2020-06-01
+1002,Jane,Smith,2,2,2019-04-15
+1003,Robert,Johnson,3,4,2021-11-01
+1004,Emily,Davis,4,4,2018-03-22
+1005,Michael,Brown,5,5,2017-08-11
+1007,Alex,Miller,3,3,2024-01-15
+1008,David,Wright,3,3,2024-02-10
